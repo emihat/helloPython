@@ -14,11 +14,12 @@ Python啓蒙のためのスライド
 ---
 ## 問題1
 - 黄色のマスには何が入りますか？
-![nu独1Q](nudoku1_q.PNG)
+
+- ![nu独1Q](nudoku1_q.PNG)
 
 ---
 ## 問題1の解答
-![nu独1A](nudoku1_a.PNG)
+- ![nu独1A](nudoku1_a.PNG)
 
 ---
 ## 私はこのゲームをnu独と名付けました
@@ -28,5 +29,5 @@ Python啓蒙のためのスライド
 
 ---
 ### nu独 問題2
-![nu独2Q](nudoku2_q.PNG)
+- ![nu独2Q](nudoku2_q.PNG)
 
