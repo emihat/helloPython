@@ -1,5 +1,6 @@
 ## Pythonを使ってみようかなと思っていただくためのスライド
 
+2018 summer
 @emi_2sheds
 
 ---
@@ -43,6 +44,7 @@
 
 ---?code=solve_nudoku_ex1.py
 
+---
 ### nu独 問題2の解答
 
 ![nu独2A](nudoku2_a.PNG)
